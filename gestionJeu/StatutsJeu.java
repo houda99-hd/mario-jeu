@@ -1,0 +1,12 @@
+package gestionJeu;
+
+public enum StatutsJeu {
+	GAME_OVER,
+	EN_PAUSE,
+	EN_JEU,
+	ECRAN_START,
+	SELECTION_NIVEAU,
+	ECRAN_AIDE,
+	NIVEAU_TERMINE,
+	ECRAN_A_PROPOS	
+}
